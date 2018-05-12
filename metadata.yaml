@@ -1,0 +1,60 @@
+_repo: Side-Lights_15762
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Stead, W. T. (William Thomas)
+    alias: Stead, William Thomas
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '9288'
+    url: http://www.gutenberg.org/2009/agents/9288
+    wikipedia: http://en.wikipedia.org/wiki/William_Thomas_Stead
+  contributor:
+    agent_name: Allen, Grant
+    alias: Allen, Charles Grant Blairfindie
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '1452'
+    url: http://www.gutenberg.org/2009/agents/1452
+    wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Runciman, James
+    birthdate: 1852
+    deathdate: 1891
+    gutenberg_agent_id: '5023'
+    url: http://www.gutenberg.org/2009/agents/5023
+    wikipedia: http://en.wikipedia.org/wiki/James_Runciman
+  editor:
+    agent_name: Runciman, John F.
+    birthdate: 1866
+    deathdate: 1916
+    gutenberg_agent_id: '5093'
+    url: http://www.gutenberg.org/2009/agents/5093
+description: ''
+gutenberg_issued: '2005-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15762'
+  lccn: '15010447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authorship'
+- !lcsh 'Social problems'
+- !lcc 'PR'
+tableOfContents: 'A note on the author, by Grant Allen -- An introductory word about
+  the book, by W. T. Stead -- Letter-writers -- On writing oneself out -- The decline
+  of literature -- Colour-blindness in literature -- The surfeit of books -- People
+  who are "down" -- Ill-assorted marriages -- Happy marriages -- Shrews -- Are we
+  wealthy? -- The values of labour -- The hopeless poor -- Waifs and strays -- Stage-children
+  -- Public and private morality: past and present -- "Raising the level of amusements"
+  -- A little sermon on failures -- "Vanity of vanities" -- Gamblers -- Scoundrels
+  -- Quiet old towns -- The sea -- Sorrow -- Death -- Journalism.'
+title: Side Lights
+url: http://www.gutenberg.org/ebooks/15762
